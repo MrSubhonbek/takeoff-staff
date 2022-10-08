@@ -1,6 +1,7 @@
 # О проекте
 
 Проект написан на React JS на шаблоне Create React App --Typescript и Redux Toolkit
+https://takeoff-staff-tau.vercel.app/login
 
 ## Запуск проекта
 
